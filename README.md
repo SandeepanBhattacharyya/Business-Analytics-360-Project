@@ -6,7 +6,7 @@ AtliQ Hardware has experienced significant growth in recent years and decided to
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance?utm_campaign=dataanalyticsbootcamp&utm_id=googleadspaid&gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkDs79RdFwkyz6S1qzIfPIK4qzgba2Pq3bfgK-eGVtLDO8a5vIDMR74aAvyUEALw_wcB)
 
-[View Live Report]()
+[View Project Report Files](https://drive.google.com/drive/folders/1zhU85VMuJqcYZ18S6rQYwm3VjML49jZ9?usp=sharing)
 
 ## Technologies Used
 
@@ -118,7 +118,7 @@ gdb056:
 
 - Data modeling is the foundation of any report, directly impacting its performance. In this project, we used the below star schema for data modeling.
 
-<img src="" class="center">
+<img src="https://github.com/SandeepanBhattacharyya/Business-Analytics-360-Project/blob/main/Data%20Model.png" class="center">
 
 ### Dashboard Design
 
@@ -128,18 +128,18 @@ Using the mockups provided, the team designed visuals and created necessary meas
 
 The Home View provides buttons for navigating to different sections of the dashboard, including:
 
-- Info
+- Info View
+<img src="https://github.com/SandeepanBhattacharyya/Business-Analytics-360-Project/blob/main/Info%20Page.png" class="center">
 - Finance View
+<img src="https://github.com/SandeepanBhattacharyya/Business-Analytics-360-Project/blob/main/Finance%20View.png" class="center">
 - Sales View
+<img src="https://github.com/SandeepanBhattacharyya/Business-Analytics-360-Project/blob/main/Sales%20View.png" class="center">
 - Marketing View
+<img src="https://github.com/SandeepanBhattacharyya/Business-Analytics-360-Project/blob/main/Marketing%20View.png" class="center">
 - Supply chain View
+<img src="https://github.com/SandeepanBhattacharyya/Business-Analytics-360-Project/blob/main/Supply%20Chain%20View.png" class="center">
 
-
-## Overall Report
-
-
-
-Access the full report here : [Report]()
+Access the full report here : [Report](https://drive.google.com/file/d/1gQVn5WjxslaxKhmu6VZNBgc95O4NKjjH/view?usp=sharing)
 
 
 ## Project Outcome
