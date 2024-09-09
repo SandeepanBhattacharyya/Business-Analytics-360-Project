@@ -116,7 +116,7 @@ gdb056:
 
 ## Data Modeling
 
-- Data modeling is the foundation of any report, directly impacting its performance. In this project, we used the below star schema for data modeling.
+- Data modeling is the foundation of any report, directly impacting its performance. In this project, we used the below snowflake schema for data modeling.
 
 <img src="https://github.com/SandeepanBhattacharyya/Business-Analytics-360-Project/blob/main/Data%20Model.png" class="center">
 
