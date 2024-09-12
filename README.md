@@ -139,7 +139,7 @@ The Home View provides buttons for navigating to different sections of the dashb
 - Supply chain View
 <img src="https://github.com/SandeepanBhattacharyya/Business-Analytics-360-Project/blob/main/Supply%20Chain%20View.png" class="center">
 
-Access the full report here : [Report](https://drive.google.com/file/d/1gQVn5WjxslaxKhmu6VZNBgc95O4NKjjH/view?usp=sharing)
+Access the full report here : [Report](https://project.novypro.com/KPuDEf)
 
 
 ## Project Outcome
