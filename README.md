@@ -6,8 +6,6 @@ AtliQ Hardware has experienced significant growth in recent years and decided to
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance?utm_campaign=dataanalyticsbootcamp&utm_id=googleadspaid&gad_source=1&gclid=Cj0KCQjwztOwBhD7ARIsAPDKnkDs79RdFwkyz6S1qzIfPIK4qzgba2Pq3bfgK-eGVtLDO8a5vIDMR74aAvyUEALw_wcB)
 
-[View Project Report Files](https://drive.google.com/drive/folders/1zhU85VMuJqcYZ18S6rQYwm3VjML49jZ9?usp=sharing)
-
 ## Technologies Used
 
 - SQL
